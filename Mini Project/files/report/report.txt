@@ -1,0 +1,15 @@
+Final Training Metrics:
+Loss: 0.0483
+Accuracy: 0.9683
+Recall: 0.8516
+Precision: 0.9880
+IOU: 0.6672
+F1-Score: 0.9553
+
+Final Validation Metrics:
+Loss: 0.0943
+Accuracy: 0.9550
+Recall: 0.7171
+Precision: 0.9212
+IOU: 0.5107
+F1-Score: 0.8292
